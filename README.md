@@ -1,6 +1,6 @@
 # My Party Album (D2)
 
-The deployed version of our application is linked [here](https://github.com/MyPartyAlbum/mpa/releases/tag/D2) and the demo to our partner is explained [here](#demo-to-our-partner).
+The deployed version of our application is linked [here](https://github.com/MyPartyAlbum/mpa/releases/tag/D2).
 
 ## Description 
 
@@ -169,9 +169,5 @@ Another way to create a release automatically is to create and push a tag to the
 MyPartyAlbum does not license the use of their code by third parties.
 
 Our partner made this choice because they are a business, and they want to keep the code proprietory.
-
-## Others
-### Demo to our partner
-A demo was done on 4 November 2022. However, our group did not know that we had to record the session down as the instructions were not clear enough regarding this, and we were only given a reply on [piazza](https://piazza.com/class/l6uha1gwhmw5zl/post/98) after the demo.
 
 However, the videos posted in the section on [Instructions](#instructions) are exactly what we have demoed to our partner, and with [these](https://docs.google.com/document/d/1vFcy-O6XyqCT1VI6c5Coww-IqR00_mS44ziKs-jb6e0/edit?usp=sharing) meeting minutes taken down, we hope that what we have provided is sufficient as a replacement of the recording!
